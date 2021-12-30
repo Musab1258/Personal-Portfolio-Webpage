@@ -1,11 +1,11 @@
 <hr>
 
-## Project Name: Iyin's Tribute Page
+## Project Name: Personal Portfolio Webpage
 
 ### Project Description
 This is one of the project for freecodecamp's 'Responsive Web Design' certification.
 
-In this project I built a ________
+In this project I built the first version of my personal portfolio webpage.
 
 ### Technologies used
 The technologies I used, include:
@@ -16,6 +16,6 @@ The technologies I used, include:
 ### Project Deployment
 This site is deployed on github pages, and the live code is below.
 
-Live link: 
+Live link: https://musab1258.github.io/Personal-Portfolio-Webpage/
 
 <hr>
